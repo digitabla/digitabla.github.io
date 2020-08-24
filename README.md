@@ -1,3 +1,3 @@
 # digitabla.github.io
-Kezdő oldal
+Kezdő oldal:
 <a href="ipari anyagok.html">Ipari anyagok</a>
